@@ -1,2 +1,2 @@
-# super-aws
-SUPER AWS
+# AMORE
+AMORE
